@@ -1,1 +1,1 @@
-opentext.mbt.samples
+opentext.mbt.tests
